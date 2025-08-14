@@ -1,6 +1,6 @@
 :root {
-  --background: ##f5a2a2;
-  --foreground: #171717;
+  --background: #ffbc11;
+  --foreground: #f84339 ;
 }
 
 html,
@@ -38,7 +38,7 @@ section {
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   padding: 16px;
-  background-color: #f9f9f9;
+  background-color: #0a837f;
   padding: 13px;
   margin: 10px;
   width: 90%;
